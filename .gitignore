@@ -1,0 +1,88 @@
+
+# ==========================================
+# ENVIRONMENT VARIABLES AND SENSITIVE DATA
+# ==========================================
+.env
+.env.*
+!.env.example
+
+# Local configuration files - adjust to your project
+config.local.php
+database.local.php
+db.local.php
+secrets.php
+
+# Private keys and certificates
+*.pem
+*.key
+*.p12
+*.pfx
+
+# ==========================================
+# DEPENDENCIES
+# ==========================================
+/vendor/
+node_modules/
+
+# ==========================================
+# LOGS AND TEMPORARY FILES
+# ==========================================
+*.log
+/logs/
+/tmp/
+/temp/
+*.tmp
+*.temp
+
+# ==========================================
+# OPERATING SYSTEM FILES
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ==========================================
+# EDITOR AND IDE SETTINGS
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+.project
+.classpath
+.settings/
+
+# ==========================================
+# PHP TESTING AND ANALYSIS CACHE
+# ==========================================
+.phpunit.cache/
+.phpunit.result.cache
+.php-cs-fixer.cache
+.phpstan/
+.phpactor.yml.local
+
+# ==========================================
+# LOCAL DATABASE BACKUPS
+# ==========================================
+*.sql.bak
+*.sql.gz
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+
+# ==========================================
+# GENERATED AND BUILD FILES
+# ==========================================
+/build/
+/dist/
+/coverage/
+
+# ==========================================
+# LOCAL XAMPP CONFIGURATION
+# ==========================================
+# Add specific local-only files here if needed.
+# Do not ignore your entire project or htdocs folder.
