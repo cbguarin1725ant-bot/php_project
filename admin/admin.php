@@ -1,5 +1,5 @@
 <?php
-require 'database.php';
+require '../config/database.php';
 $user = 'Guest321';
 $pass = 'place321';
 
