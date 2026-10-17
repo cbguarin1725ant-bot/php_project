@@ -42,7 +42,7 @@
     <section id="about" class="section about">
         <div class="about-container">
             <div class="about-image">
-                <img src="images/nails5.jpg" alt="Red and gold nail design">
+                <img src="assets/images/nails5.jpg" alt="Red and gold nail design">
             </div>
             <div class="about-text">
                 <p class="section-title">WELCOME</p>
@@ -110,16 +110,16 @@
             <p>Get inspired by our beautiful nail designs.</p>
         </div>
         <div class="gallery-container">
-            <div class="gallery-item"><img src="images/nails7.jpg" alt="Gold floral nail design"></div>
-            <div class="gallery-item"><img src="images/nails5.jpg" alt="Red and gold nail design"></div>
-            <div class="gallery-item"><img src="images/nails10.jpg" alt="Burgundy floral nail design"></div>
-            <div class="gallery-item"><img src="images/nails9.jpg" alt="White dotted nail design"></div>
-            <div class="gallery-item"><img src="images/nails8.jpg" alt="Red dotted nail design"></div>
-            <div class="gallery-item"><img src="images/nails6.jpg" alt="Black and white dotted nail design"></div>
-            <div class="gallery-item"><img src="images/nails4.jpg" alt="Burgundy and gold nail design"></div>
-            <div class="gallery-item"><img src="images/nails3.jpg" alt="Pink floral nail design"></div>
-            <div class="gallery-item"><img src="images/nails2.jpg" alt="Mixed charm nail design"></div>
-            <div class="gallery-item"><img src="images/nails1.jpg" alt="Pink and white floral nail design"></div>
+            <div class="gallery-item"><img src="assets/images/nails7.jpg" alt="Gold floral nail design"></div>
+            <div class="gallery-item"><img src="assets/images/nails5.jpg" alt="Red and gold nail design"></div>
+            <div class="gallery-item"><img src="assets/images/nails10.jpg" alt="Burgundy floral nail design"></div>
+            <div class="gallery-item"><img src="assets/images/nails9.jpg" alt="White dotted nail design"></div>
+            <div class="gallery-item"><img src="assets/images/nails8.jpg" alt="Red dotted nail design"></div>
+            <div class="gallery-item"><img src="assets/images/nails6.jpg" alt="Black and white dotted nail design"></div>
+            <div class="gallery-item"><img src="assets/images/nails4.jpg" alt="Burgundy and gold nail design"></div>
+            <div class="gallery-item"><img src="assets/images/nails3.jpg" alt="Pink floral nail design"></div>
+            <div class="gallery-item"><img src="assets/images/nails2.jpg" alt="Mixed charm nail design"></div>
+            <div class="gallery-item"><img src="assets/images/nails1.jpg" alt="Pink and white floral nail design"></div>
         </div>
     </section>
 
