@@ -11,6 +11,7 @@ config.local.php
 database.local.php
 db.local.php
 secrets.php
+config/database.php
 
 # Private keys and certificates
 *.pem
